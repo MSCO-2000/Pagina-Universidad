@@ -153,10 +153,10 @@ textarea:focus, input, input[type]:focus {
 	}
 
 	.imagen-apartado{
-		width: 400px;
+		width: 90%;
 	}
 	.div-contacto{
-		width: 100%; 
+		width: 90%; 
 
 	}
 	.imagen-contacto{
