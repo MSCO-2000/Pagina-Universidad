@@ -140,7 +140,7 @@ textarea:focus, input, input[type]:focus {
 
 
 /*Estilos para smartphones*/
-@media only screen and (max-width: 768px){
+@media only screen and (max-width: 1000px){
 
 	.menu{
 		font-size: 9px;
